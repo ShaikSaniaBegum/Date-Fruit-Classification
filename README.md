@@ -1,5 +1,5 @@
 # Date Fruit Classification using Deep Learning 
-📌 Overview
+📌 **Overview**
 This project focuses on developing an optimized neural network architecture for classifying seven types of date fruits using deep learning techniques. By experimenting with different network depths, we improved classification accuracy beyond traditional machine learning models.
 
 ✨ Features
